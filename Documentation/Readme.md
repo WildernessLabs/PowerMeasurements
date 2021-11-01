@@ -22,4 +22,5 @@ The power consumptions measurements were made twice over a 30 second period:
 * When the reset pin on the ESP32 is connected to ground.
 
 Average current consumption in deep sleep: 31.42 mA
+
 Average current consumption in reset: 32.77 mA
